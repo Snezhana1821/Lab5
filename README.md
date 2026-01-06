@@ -19,7 +19,7 @@ Note App - это веб-приложение для управления зам
 ## Установка и запуск
 
 **Клонирование репозитория**
-git clone https://github.com/[ваш-username]/Lab-5.git
+git clone https://github.com/Snezhana1821/Lab-5.git
 cd Lab-5
 
 **Установка зависимостей**
