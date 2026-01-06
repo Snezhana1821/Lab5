@@ -17,7 +17,7 @@ Note App - это веб-приложение для управления зам
 * **Управление задачами:** GitHub Issues
 
 ## Установка и запуск
-```bash
+
 # Клонирование репозитория
 git clone https://github.com/[ваш-username]/Lab-5.git
 cd Lab-5
